@@ -8,7 +8,7 @@
 
 ### 前端部分：
 #### 1. 下载并安装node.js ：https://nodejs.org/en/
-#### 2. cmb进入online-store删除node_modules文件夹并重新npm install
+#### 2. cmb进入online-store然后npm install
 
 ### 后端部分：
 #### 所需依赖包如下：
