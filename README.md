@@ -1,8 +1,9 @@
 # 毕业设计------在线音乐网站
 
 ## 开发语言：
-前端：vue
-后台：django
+前端：vue.js2.0
+后台：django2.0（django rest framework）
+数据库：MySQL
 
 ## 下载安装：
 
