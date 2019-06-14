@@ -24,7 +24,7 @@ sys.path.insert(0, os.path.join(BASE_DIR, 'extra_apps'))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '2u8o1bgxuc2v$nci6rfm&fv$%_pi!+amiohxx^u5*1wqc!d9c8'
+SECRET_KEY = 'xxxxxx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -96,9 +96,9 @@ WSGI_APPLICATION = 'Music.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'music',
-        'USER': 'root',
-        'PASSWORD': '688096128',
+        'NAME': 'xxx',
+        'USER': 'xxx',
+        'PASSWORD': 'xxx',
         'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
@@ -175,7 +175,7 @@ REGEX_MOBILE = "^1[358]\d{9}$|^147\d{8}$|^176\d{8}$"
 
 
 #云片网设置
-APIKEY = "e4607a1f1f9888df3b72cc6b560aaad2"
+APIKEY = "xxx"
 
 # DRF扩展
 REST_FRAMEWORK_EXTENSIONS = {
